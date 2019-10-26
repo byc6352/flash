@@ -42,6 +42,7 @@
 	  trace( stage.loaderInfo.url );
 	  if(var_26==null)
 	    var_26 = new K1749382B8F4F96F87243ECB30BED0971F5A4A3445901K(class_31.getInstance().name_1());
+		trace(class_31.getInstance().name_1());
 	  //if(myEval==null)
 	  //  LoadD();
 	  //_loc7_="z7z5qYJtTNasbXJqUzT4nB1wvUEtpBLSTO7aPXk61LMpMDM9eq53NALTabI0XIeqpvljbw==";
